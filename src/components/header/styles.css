@@ -1,0 +1,9 @@
+.container {
+    flex-direction: row;
+    padding: 10px;
+    justify-content: center;
+    display: flex;
+    position: fixed;
+    background-color: white;
+    
+}
